@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>water_hyacinth_983.jpg</filename>
+	<path>/my-project-name/water_hyacinth_983.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>water_hyacinth</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>10</ymin>
+			<xmax>390</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>
